@@ -19,7 +19,6 @@
 
 <!--  라디오 버튼 생성  -->
         <RadioButton
-            android:checked="true"
             android:id="@+id/radioApple"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
